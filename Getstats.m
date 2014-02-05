@@ -97,7 +97,7 @@ meanrain_mods(:,n)=meanrain';
 meanraintotal_mod(:,n)= meanraintotal';
 end
 
-%save to txt files
+%save to txt files, 55 of them!
 
 for i=1:size(allmodrain,2);
 filename = ['rainpast',num2str(i),'.txt'];
