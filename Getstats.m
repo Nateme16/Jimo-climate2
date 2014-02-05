@@ -3,7 +3,7 @@
 %%calculates the stats of the gamma distribution as well as saving the
 %%time series
 
-%choose lon lat of interest and date range (days)
+%choose lon lat of interest and date range with the dates in purple.
 clear all
 
 load('/Users/nateme16/Documents/MATLAB/JimOwork/Climate Data 2_4_14/climatedata2_5_14.mat')
